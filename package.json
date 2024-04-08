@@ -1,12 +1,12 @@
 {
   "name": "eleventy-starter",
   "version": "1.1.0",
-  "description": "This is a base starter eleventy repository",
+  "description": "This is Bimei's portfolio",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve --quiet"
   },
-  "author": "Chris Stein",
+  "author": "Bimei Li",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.1.4",
