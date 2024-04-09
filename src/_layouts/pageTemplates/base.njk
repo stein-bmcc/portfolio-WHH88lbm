@@ -1,56 +1,13 @@
 ---
 siteTitle: Bimei's Portfolio
 ---
-<!doctype html>
-<html lang="en">
-
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{siteTitle}}: {{title}}</title>
-    <meta name="description" content="">
-
-    <meta property="og:title" content="">
-    <meta property="og:type" content="">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
-  
-    <link rel="icon" href="/favicon.ico" sizes="any">
-    <link rel="icon" href="/icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="icon.png">
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="/css/styles.css">
-    </head>
-  <body class="{{pageClass}}">
-    <header class="site-header">
-      {% include "navigation.njk" %}<!-- Add your nav element to the _includes/navigation.njk file -->
-    </header>
-  
-    <main class="main page-content">
-      {{ content | safe }}
-    </main>
-
-    <footer class="site-footer">
-      <!-- Add your footer content here -->
-    </footer>
-  
-    <!-- Load CDN version of jQuery. For other versions visit this page: https://code.jquery.com/jquery/ -->
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
-    <!--    Load Local version if CDN is not working-->
-    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-3.7.1.min.js"><\/script>')</script>
-    <script src="/js/main.js"></script>
-  </body>
-</html>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/css/css/style.css">
   <link rel="stylesheet" href="/reset.css">
 
 </head>
@@ -64,26 +21,14 @@ siteTitle: Bimei's Portfolio
         <div class="links" id="nav-links">
           </div>
          <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="work.html">Work</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="/index">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/work">Work</a></li>
+          <li><a href="/contact">Contact</a></li>
           
         </ul>
       </nav>
-            
-      <section>
-        <h2>About me</h2>
-       <p>My name is Bimei Li and I am studying at Borough of Manhattan Community College now. 
-        My major is Multimedia Programming and Design. I am going to transfer to the 4years college 
-        in fall 2024. I have done some school projects such as creating simple web pages and designing
-        simple 2D animations with JavaScript. Also, I have
-        basic knowledge of Photoshop, Illustrator, InDesign and After Effects.
-      </p>    
-      </section>
-          
       </header>
-      
       <main>
       {{ content | safe }}
       </main>
