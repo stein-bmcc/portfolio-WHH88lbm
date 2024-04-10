@@ -18,7 +18,7 @@ tags:
             
         <h2 class="section-head">My Skills</h2>
         <section class="grid">
-          <a href="JAVASCRIPT.html">
+          <a href="javascript">
             <article class="card">
               <div class="card__img"><img src="image/JavaScript.png" alt= "Javascript"  width="200" height="400"></div>
               <div class="card__content">
@@ -29,7 +29,7 @@ tags:
             </article>
           </a>
 
-          <a href="HTML.html">
+          <a href="html">
             <article class="card">
               <div class="card__img"><img src="image/html.png" alt= "html" width="200" height="400"></div>
               <div class="card__content">
