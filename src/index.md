@@ -18,23 +18,29 @@ tags:
             
         <h2 class="section-head">My Skills</h2>
         <section class="grid">
-          
+          <a href="JAVASCRIPT.html">
             <article class="card">
               <div class="card__img"><img src="image/JavaScript.png" alt= "Javascript"  width="200" height="400"></div>
               <div class="card__content">
                
-                <button class="card__btn">Show my work <span>&rarr;</span></button>
+                <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
               </div>
+           
             </article>
+          </a>
 
+          <a href="HTML.html">
             <article class="card">
               <div class="card__img"><img src="image/html.png" alt= "html" width="200" height="400"></div>
               <div class="card__content">
                
-               <button class="card__btn">Show my work <span>&rarr;</span></button>
+               <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
               </div>
             </article>
+          </a>
             </section>
+
+
 
 
 
