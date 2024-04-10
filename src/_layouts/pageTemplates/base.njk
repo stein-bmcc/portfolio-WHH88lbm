@@ -11,7 +11,7 @@ siteTitle: Bimei's Portfolio
   <link rel="stylesheet" href="/reset.css">
 
 </head>
-<body>
+<body class="{{ pageClass }}">
     <header class="Mysite">
       <nav class="site-nav">
         <div class="site-title">
@@ -29,7 +29,7 @@ siteTitle: Bimei's Portfolio
         </ul>
       </nav>
       </header>
-      <main>
+      <main class="{{mainClass}}">
       {{ content | safe }}
       </main>
       
