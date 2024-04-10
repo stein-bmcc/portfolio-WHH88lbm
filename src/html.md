@@ -4,6 +4,7 @@ layout: base
 pageClass: projects
 tags:
   - work
+--- 
 <h1>HTML  &#38; CSS</h1>
           <section class="HTML">
           <div class="projects">
@@ -22,8 +23,7 @@ tags:
                     </div>
                 </a>
                 </div>
-
-                <div class="projects">
+            <div class="projects">
                   <a href="HTMLcss/cunyDesign/index">
                       <div class="project-card">
                           <img src="image/cunyDesign.png" alt="Cuny Design">
