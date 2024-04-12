@@ -6,7 +6,7 @@ tags:
   - home
   - welcome
   - info
---- <section>
+---  <section>
           <h2>About me</h2>
          <p>My name is Bimei Li and I am studying at Borough of Manhattan Community College now. 
           My major is Multimedia Programming and Design. I am going to transfer to the 4years college 
@@ -15,31 +15,25 @@ tags:
           basic knowledge of Photoshop, Illustrator, InDesign and After Effects.
         </p>    
         </section>
-            
-        <h2 class="section-head">My Skills</h2>
+          <h2 class="section-head">My Skills</h2>
         <section class="grid">
-          <a href="javascript">
+          <a href="/javascript">
             <article class="card">
-              <div class="card__img"><img src="image/JavaScript.png" alt= "Javascript"  width="200" height="400"></div>
+              <div class="card__img"><img src="/image/JavaScript.png" alt= "Javascript"  width="200" height="400"></div>
               <div class="card__content">
-               
-                <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
+              <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
               </div>
-           
-            </article>
+           </article>
           </a>
-
-          <a href="html">
+          <a href="/html">
             <article class="card">
-              <div class="card__img"><img src="image/html.png" alt= "html" width="200" height="400"></div>
+              <div class="card__img"><img src="/image/html.png" alt= "html" width="200" height="400"></div>
               <div class="card__content">
-               
-               <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
+              <!--<button class="card__btn">Show my work <span>&rarr;</span></button>-->
               </div>
             </article>
           </a>
             </section>
-
 
 
 

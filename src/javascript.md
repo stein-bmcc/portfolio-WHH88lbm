@@ -7,17 +7,17 @@ tags:
      <h1>JavaScript</h1>
           <section class="JavaScript">
           <div class="projects">
-          <a href="JS/spongebob/index">
+          <a href="/JS/spongebob/index">
               <div class="project-card">
-                  <img src="image/spongebob.png" alt="Spongebob">
+                  <img src="/image/spongebob.png" alt="Spongebob">
                   <h2>Spongebob - 2017</h2>
               </div>
           </a>
           </div>
           <div class="projects">
-            <a href="JS/animation/index">
+            <a href="/JS/animation/index">
               <div class="project-card">
-                  <img src="image/animation.png" alt="animation">
+                  <img src="/image/animation.png" alt="animation">
                   <h2>Animation - 2017</h2>
               </div>
           </a>
