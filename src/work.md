@@ -20,7 +20,7 @@ tags:
           </div>
 
           <div class="projects">
-          <a href="/JS/spongebob/index">
+          <a href="/projects/spongebob">
               <div class="project-card">
                   <img src="/image/portrait.png" alt="Spongebob">
                   <h3>Spongebob - 2017</h3>
