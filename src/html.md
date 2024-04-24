@@ -8,7 +8,7 @@ tags:
 <h1>HTML  &#38; CSS</h1>
 <section class="HTML">
 <div class="projects">
-<a href="HTMLcss/quitSmoking/smoking/index.html">
+<a href="/quitSmoking/smoking/index.html">
 <div class="project-card">
     <img src="/image/Quitsmoking.png" alt="Quit smoking" style="width:290px;height:330px;">
     <h2>Quit smoking - 2017</h2>
@@ -19,7 +19,7 @@ reasons for quitting smoking, the harms of smoking the benefits of quitting smok
 the steps to quit smoking. I put an animation that I made with After Effects at the home page.</p>
 </div>
 <div class="projects">
-<a href="HTMLcss/episode/index.html">
+<a href="/projects/episodes">
 <div class="project-card">
 <img src="/image/episode.png" alt="Episode" style="width:290px;height:330px;">
 <h2>TV series website - 2023</h2>
