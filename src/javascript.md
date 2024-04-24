@@ -8,22 +8,19 @@ tags:
 <h1>JavaScript</h1>
 <section class="JavaScript">
 <div class="projects">
-<a href="projects/spongebob">
+<a href="/projects/spongebob">
     <div class="project-card">
-        <img src="image/spongebob.png" alt="Spongebob" style="width:340px;height:320px;">
+        <img src="/image/spongebob.png" alt="Spongebob" style="width:340px;height:320px;">
         <h2>Spongebob - 2017</h2>
     </div>
 </a>
 <p>I drew a cartoon character Spongebob through the drawing functions fill(), stroke(),
 rect(), line(), ellipse() and triangle() in P5.</p>
 </div>
-
-
 <div class="projects">
-
-<a href="/porjects/animation">
+<a href="/projects/animation">
     <div class="project-card">
-        <img src="image/animation.png" alt="animation" style="width:340px;height:320px;">
+        <img src="/image/animation.png" alt="animation" style="width:340px;height:320px;">
         <h2>Animation - 2017</h2>
     </div>
 </a>
