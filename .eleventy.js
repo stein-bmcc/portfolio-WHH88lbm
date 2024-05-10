@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/image');
   eleventyConfig.addPassthroughCopy('./src/css');
   eleventyConfig.addPassthroughCopy('./src/js');
+  eleventyConfig.addPassthroughCopy('./src/HTMLcss');
 
   eleventyConfig.addLayoutAlias('base', 'pageTemplates/base.njk');
   eleventyConfig.addLayoutAlias('page', 'pageTemplates/page.njk');
