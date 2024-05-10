@@ -1,8 +1,7 @@
 function setup(){
     var canvas = createCanvas(640, 640);
-    canvas.parent('sketch');
-
-
+    canvas.parent('spongebob');
+    
     background('LIGHTCYAN');
     
 	
