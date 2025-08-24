@@ -212,14 +212,27 @@ img{
   max-width: 100%; 
 }*/
 
-.section p{
+ text-align: center;
+    font-family:monospace;
+    font-size: 20px;
+    margin: auto;
+    
+    }
+    .section p{
       font-family:monospace;
       font-size: 20px;
-      
+      margin-right: 150px;
     }
     .section img{
       margin-left: 150px;
     }
+
+
+img{
+  width: auto; 
+  height: auto;
+  max-width: 100%; 
+}
 
 .card{
  /*background-color: #DFF0F9;

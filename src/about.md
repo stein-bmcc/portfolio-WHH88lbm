@@ -10,8 +10,5 @@ tags:
   <div class="section">
         <h1>About me</h1>
         <img src="/image/me.JPG" alt="Me" style="width:340px;height:440px;">
-       <p>My name is Bimei Li and I am studying at Borough of Manhattan Community College now. 
-        My major is Multimedia Programming and Design. I am going to transfer to the 4years college 
-        in fall 2024. I have done some school projects such as creating simple web pages and designing simple 2D animations with JavaScript. Also, I have
-          basic knowledge of Photoshop, Illustrator, InDesign and After Effects.</p>
+       <p>Bimei Li is currently pursuing a BFA in Communication Design at New York City College of Technology. She has done some school projects such as creating simple web pages, packaging design, logos, posters, book ads, instagram carousel, mockups, brand manual guide and instructional manual. With hands-on experience in customer service and data management from a five-year tenure at eRxCity Pharmacy. She is currently looking for an internship related to her major.</p>
   </div>
