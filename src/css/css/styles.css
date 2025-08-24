@@ -243,10 +243,10 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
         section{
           text-align: center;
           }
-        *.grid{
+        /*.grid{
               display: column;
               grid-template-columns: repeat(2, 1fr);
-         }*
+         }*/
         
         
       .Mysite{
