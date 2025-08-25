@@ -8,8 +8,7 @@ tags:
   - welcome
   - info
 ---  
-  <h1>About me</h1>
-   <div class="section">
+   <div class="about">
           <!--<h1>About me</h1>-->
          <p>Bimei Li is currently pursuing a BFA in Communication Design at New York City College of Technology. She has done some school projects such as creating simple web pages, packaging design, logos, posters, book ads, instagram carousel, mockups, brand manual guide and instructional manual. With hands-on experience in customer service and data management from a five-year tenure at eRxCity Pharmacy. She is currently looking for an internship related to her major.
         </p>    
