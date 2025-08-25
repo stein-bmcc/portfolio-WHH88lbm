@@ -7,7 +7,7 @@ tags:
   - 
   - 
 ---
- <div class="about">  
+ <div class="contact">  
       <h1><br></br>Contact me</h1>  
       <p>Email: bimei.li@mail.citytech.cuny.edu</p>
       <p>Phone: 646-288-8439</p>
