@@ -214,12 +214,14 @@ img{
 
 .about p{
     text-align: center;
-    font-family:monospace;
+    font-family:montserrat;
     font-size: 20px;
     margin: auto;
+    /*margin-right: 18em;
+      margin-left: 18em;*/
     
     }
-    .section p{
+    .section, .contact p{
       font-family:montserrat;
       font-size: 20px;
       margin-right: 150px;
