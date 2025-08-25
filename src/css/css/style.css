@@ -214,7 +214,7 @@ img{
 
 .about p{
     /*text-align: center;*/
-    font-family:montserrat;
+    font-family:monospace;
     font-size: 20px;
     margin: auto;
     /*margin-right: 18em;
@@ -222,7 +222,7 @@ img{
     
     }
     .section p{
-      font-family:montserrat;
+      font-family:monospace;
       font-size: 20px;
       margin-right: 150px;
     }
@@ -344,7 +344,7 @@ img{
   grid-gap: 10px;
 
 }*/
-h1, .contact{
+h1, .contact p{
   text-align: center;
   font-size: 30px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
